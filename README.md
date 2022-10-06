@@ -74,6 +74,9 @@ Conversion of the Raw data(Tweets) into pandas data frame is the process.
 For Optimality, defining functions in the earlier steps helps in Better Implementation.
 
 ### --> Translating tweets into English Language
+```
+.apply(translator.translate, src='ja', dest='en')
+```
 
 During the Data analysis process, some tweets were in the Japanese language.
 
