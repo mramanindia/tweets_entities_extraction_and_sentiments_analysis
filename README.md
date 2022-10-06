@@ -27,6 +27,10 @@ Aman India.
 \
 > Kaggle: https://www.kaggle.com/amanindiamuz
 
+<a href="https://www.youtube.com/watch?v=sw0NrYbK5RI"><img src="https://i.ibb.co/MNcw5Cj/Blue-and-Yellow-Gradient-Meditation-Youtube-Thumbnail.png" alt="Tweets_entity_extraction_and_sentiment_analysis" border="0" /></a>
+
+
+
 ## Video Explanation: https://youtu.be/sw0NrYbK5RI
 
 # The Approach (Solution)
